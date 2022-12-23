@@ -1,0 +1,59 @@
+html{
+    background-color: rgba(238, 149, 77, 0.918);
+}
+#picture1{
+    background-image: url('img9_10_1/picture1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#picture2{
+    background-image: url('img9_10_1/picture2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#picture3{
+    background-image: url('img9_10_1/picture3.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#picture4{
+    background-image: url('img9_10_1/picture4.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#picture5{
+    background-image: url('img9_10_1/picture5.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#picture6{
+    background-image: url('img9_10_1/picture6.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 800px;
+    height: 800px;
+    float:left;
+}
+#previous{
+    float:left;
+    margin-top: 390px;
+}
+#next{
+    float: left;
+    margin-top: 390px;
+}

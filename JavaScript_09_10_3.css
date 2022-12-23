@@ -1,0 +1,17 @@
+html{
+    background-color: rgb(235, 145, 72);
+}
+.square{
+    background-color: green;
+    width: 90px;
+    height: 70px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    margin: 4px;
+    float:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 20px;
+}
